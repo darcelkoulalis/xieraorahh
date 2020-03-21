@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aquohbeizu.techsupp.work/sitemap.xml
